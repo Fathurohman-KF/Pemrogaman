@@ -1,0 +1,11 @@
+E:\Amikom\Pemrograman\TheSuperComputer\TheSuperComputer\obj\Debug\netcoreapp2.1\TheSuperComputer.csprojAssemblyReference.cache
+E:\Amikom\Pemrograman\TheSuperComputer\TheSuperComputer\obj\Debug\netcoreapp2.1\TheSuperComputer.csproj.CoreCompileInputs.cache
+E:\Amikom\Pemrograman\TheSuperComputer\TheSuperComputer\obj\Debug\netcoreapp2.1\TheSuperComputer.AssemblyInfoInputs.cache
+E:\Amikom\Pemrograman\TheSuperComputer\TheSuperComputer\obj\Debug\netcoreapp2.1\TheSuperComputer.AssemblyInfo.cs
+E:\Amikom\Pemrograman\TheSuperComputer\TheSuperComputer\bin\Debug\netcoreapp2.1\TheSuperComputer.deps.json
+E:\Amikom\Pemrograman\TheSuperComputer\TheSuperComputer\bin\Debug\netcoreapp2.1\TheSuperComputer.runtimeconfig.json
+E:\Amikom\Pemrograman\TheSuperComputer\TheSuperComputer\bin\Debug\netcoreapp2.1\TheSuperComputer.runtimeconfig.dev.json
+E:\Amikom\Pemrograman\TheSuperComputer\TheSuperComputer\bin\Debug\netcoreapp2.1\TheSuperComputer.dll
+E:\Amikom\Pemrograman\TheSuperComputer\TheSuperComputer\bin\Debug\netcoreapp2.1\TheSuperComputer.pdb
+E:\Amikom\Pemrograman\TheSuperComputer\TheSuperComputer\obj\Debug\netcoreapp2.1\TheSuperComputer.dll
+E:\Amikom\Pemrograman\TheSuperComputer\TheSuperComputer\obj\Debug\netcoreapp2.1\TheSuperComputer.pdb
